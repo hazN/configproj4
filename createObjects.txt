@@ -1,0 +1,13 @@
+basic meshName friendlyName position(x,y,z) rotation(x,y,z) scale
+advanced meshName friendlyName bUse_RGBA_colour(1/0) RGBA_Colour(vec4) isWireFrame(1/0) scale bDoNotLight(1/0)
+basic Ground Ground 0 0 0 80 0 0 3
+basic Tree Tree1 0 2 0 0 0 0 1
+basic Horse Horse 0 0 0 0 0 0 5
+basic Adventurer Adventurer -32 -32 -127 0 0 0 1
+basic Goblin Goblin1 -32 -32 -127 0 0 0 1
+basic Goblin Goblin2 -32 -32 -127 0 0 0 1
+basic Goblin Goblin3 -32 -32 -127 0 0 0 1
+basic Goblin Goblin4 -32 -32 -127 0 0 0 1
+basic Tree Tree2 0 2 0 0 0 0 1
+basic Tree Tree3 0 2 0 0 0 0 1
+basic Tree Tree4 0 2 0 0 0 0 1
